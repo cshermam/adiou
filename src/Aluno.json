@@ -1,0 +1,43 @@
+{
+    "usuarios":[
+        {
+            "ra": "123456",
+            "nome": "Christiano Shermam Da Silva Lima",
+            "itinerario": "Tecnologia da Informação",
+            "email": "christiano.lima@aluno.al.sesi.com.br",
+            "senha": "123456"
+        },
+
+        {
+            "ra": "654321",
+            "nome": "Luis",
+            "itinerario": "Tecnologia da Informação",
+            "email": "luis.morais@aluno.al.sesi.com.br",
+            "senha": "123456" 
+        },
+
+        {
+            "ra": "142536",
+            "nome": "Paulo",
+            "itinerario": "Tecnologia da Informação",
+            "email": "paulo.cruz@aluno.al.sesi.com.br",
+            "senha": "123456" 
+        },
+
+        {
+            "ra": "415263",
+            "nome": "vinycius",
+            "itinerario": "Tecnologia da Informação",
+            "email": "vinycius.canuto@aluno.al.sesi.com.br",
+            "senha": "123456" 
+        },
+
+        {
+            "ra": "654321",
+            "nome": "emerson",
+            "itinerario": "Tecnologia da Informação",
+            "email": "emerson.vinicius@aluno.al.sesi.com.br",
+            "senha": "123456" 
+        }
+    ]
+}
